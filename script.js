@@ -61,11 +61,19 @@ const changeBackground = function(weatherTitle) {
 
 //Retrieves json data from Weather api
 const getWeatherJson = function(longitude, latitude) {
-  let requestURL =
-    apiURL + "api/current?" + "lat=" + latitude + "&lon=" + longitude;
-  $.getJSON(requestURL, json => {
-    displayWeather(json);
-  });
+  let requestURL = apiURL + "api/current?" + "lat=" + latitude + "&lon=" + longitude;
+
+  let request = new XMLHttpRequest();
+  request.open('GET',requestURL);
+  request.responseType = 'json';
+  request.send();
+  request.onload = function() {
+    displayWeather(request.response);
+  }
+  
+  //$.getJSON(requestURL, json => {
+  //  displayWeather(json);
+ // });
 };
 
 //Switches fehrenheit to celsius & vice-versa along with button text and unit symbol
