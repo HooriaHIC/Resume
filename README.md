@@ -2,9 +2,9 @@
 ### Proficient in Creating Rest-APIs
 ### Proficient in Creating Traditional MVC Web Applications
 
-#### I'll only list the technologies, libraries and frameworks that I've worked with in at least 1 big project and, In which, I'm fairly proficient.
+#### I'll only list the technologies, libraries, and frameworks that I've worked with in at least 1 project and, In which, I'm fairly proficient.
 
-### Front End:
+### Front End
 * Javascript + ES6
 * React.js
 * Redux
