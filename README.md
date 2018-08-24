@@ -41,7 +41,7 @@
 * Familiar with Object Oriented Programming and Design Paradigm
 * Familiar with Functional Programming Paradigm
 * Familiar with Relational Database Design Concepts
-* Familiar with C# .Net and Basic Windows Form Applications
+* Familiar with C# .Net and Basic Windows Form Applications Development
 * Familiar with Python, PHP, C Language and Low-level programming Concepts
 
 #### Visit [My Codepen](https://codepen.io/ozarion/) to see some of my Front-End Projects
