@@ -1,4 +1,4 @@
-### Proficient in Creating Single Page Web Applications using React + Redux
+### Proficient in Creating Modern Web Applications leveraging React + Redux
 ### Proficient in Creating Rest-APIs
 ### Proficient in Creating Traditional MVC Web Applications
 
