@@ -41,7 +41,7 @@
 * Familiar with Vagrant and Virtual box
 * Proficient in Git Version Control and Turtoise SVN
 
-### Other Programming Languages, frameworks and Skills
+### Other Programming Languages, Frameworks and Skills
 * Proficient in Essential Data Structures, Algorithms and Problem Solving
 * Familiar with Object Oriented Programming and Design Paradigm
 * Familiar with Functional Programming Paradigm
