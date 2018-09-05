@@ -3,6 +3,7 @@
 #### **Email**: orionrenegado@gmail.com
 #### **Mobile**: +92.300.2770524
 
+
 # Professional Summary
 * Proficient in Creating Modern Web Applications leveraging React + Redux
 * Proficient in Creating Rest-APIs
@@ -53,6 +54,18 @@
 #### Visit [My Glitch Profile](https://glitch.com/@Ozarion) to see some of my Back-End projects
 #### Visit [My Github Profile](https://github.com/Ozarion)
 
+
+# Personal Information
+#### Name            :   Usama Ishtiaq
+#### Date of Birth   :   28-02-1999
+#### Gender          :   Male
+#### Age             :   19 Years (As of September, 2018)
+#### Nationality     :   Pakistani
+#### Residency       :   Karachi, Pakistan
+#### Maritual Status :   Single
+#### Languages       :   English (Fluent), Urdu (Fluent), Hindi (Fluent)
+
+
 # Education
 ### Bachelors (Computer Science)
 #### Paf Karachi Institute Of Economics & Technology (paf-kiet), Karachi, Pakistan 
@@ -64,14 +77,3 @@
 ##### * [JavaScript Certification](https://www.freecodecamp.org/certification/ozarion/javascript-algorithms-and-data-structures)
 ##### * [Front End Libraries Certification](https://www.freecodecamp.org/certification/ozarion/front-end-libraries)
 ##### * [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)
-
-
-# Personal Information
-#### Name            :   Usama Ishtiaq
-#### Date of Birth   :   28-02-1999
-#### Gender          :   Male
-#### Age             :   19 Years (As of September, 2018)
-#### Nationality     :   Pakistani
-#### Residency       :   Karachi, Pakistan
-#### Maritual Status :   Single
-#### Languages       :   English (Fluent), Urdu (Fluent), Hindi (Fluent)
