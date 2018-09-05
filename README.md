@@ -61,11 +61,11 @@
 * [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)
 
 # Personal Information
-### Name            :   Usama Ishtiaq
-### Date of Birth   :   28-02-1999
-### Gender          :   Male
-### Age             :   19 Years (As of September, 2018)
-### Nationality     :   Pakistani
-### Residency       :   Karachi, Pakistan
-### Maritual Status :   Single
-### Languages       :   English (Fluent), Urdu (Fluent), Hindi (Fluent)
+#### Name            :   Usama Ishtiaq
+#### Date of Birth   :   28-02-1999
+#### Gender          :   Male
+#### Age             :   19 Years (As of September, 2018)
+#### Nationality     :   Pakistani
+#### Residency       :   Karachi, Pakistan
+#### Maritual Status :   Single
+#### Languages       :   English (Fluent), Urdu (Fluent), Hindi (Fluent)
