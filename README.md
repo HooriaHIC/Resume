@@ -53,17 +53,18 @@
 #### Visit [My Glitch Profile](https://glitch.com/@Ozarion) to see some of my Back-End projects
 #### Visit [My Github Profile](https://github.com/Ozarion)
 
-##### I've also actively studied from FreeCodeCamp.org, Where I created the requested projects and attained certifications, Here is my [Profile Link](https://www.freecodecamp.org/ozarion) and Below are the Certifications I've attained so far:
-
-* [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ozarion/responsive-web-design)
-* [JavaScript Certification](https://www.freecodecamp.org/certification/ozarion/javascript-algorithms-and-data-structures)
-* [Front End Libraries Certification](https://www.freecodecamp.org/certification/ozarion/front-end-libraries)
-* [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)
-
 # Education
-## Bachelors (Computer Science)
+### Bachelors (Computer Science)
 #### Paf Karachi Institute Of Economics & Technology (paf-kiet), Karachi, Pakistan 
 #### Graduating (from 2016 to 2020)
+
+##### I've also actively studied from FreeCodeCamp.org, Where I created the requested projects and attained certifications, Here is my [Profile Link](https://www.freecodecamp.org/ozarion) and Below are the Certifications I've attained so far:
+
+##### * [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ozarion/responsive-web-design)
+##### * [JavaScript Certification](https://www.freecodecamp.org/certification/ozarion/javascript-algorithms-and-data-structures)
+##### * [Front End Libraries Certification](https://www.freecodecamp.org/certification/ozarion/front-end-libraries)
+##### * [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)
+
 
 # Personal Information
 #### Name            :   Usama Ishtiaq
