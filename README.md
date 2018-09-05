@@ -4,9 +4,9 @@
 #### **Mobile**: +92.300.2770524
 
 # Professional Summary
-* ### Proficient in Creating Modern Web Applications leveraging React + Redux
-* ### Proficient in Creating Rest-APIs
-* ### Proficient in Creating Traditional MVC Web Applications
+* Proficient in Creating Modern Web Applications leveraging React + Redux
+* Proficient in Creating Rest-APIs
+* Proficient in Creating Traditional MVC Web Applications
 
 #### I'll only list the technologies, libraries, and frameworks that I've worked with in at least 1 project and, In which, I'm fairly proficient.
 
@@ -53,7 +53,7 @@
 #### Visit [My Glitch Profile](https://glitch.com/@Ozarion) to see some of my Back-End projects
 #### Visit [My Github Profile](https://github.com/Ozarion)
 
-#### I've also actively studied from FreeCodeCamp.org, Where I created the requested projects and attained certifications, Here is my [Profile Link](https://www.freecodecamp.org/ozarion) and Below are the Certifications I've attained so far:
+##### I've also actively studied from FreeCodeCamp.org, Where I created the requested projects and attained certifications, Here is my [Profile Link](https://www.freecodecamp.org/ozarion) and Below are the Certifications I've attained so far:
 
 * [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ozarion/responsive-web-design)
 * [JavaScript Certification](https://www.freecodecamp.org/certification/ozarion/javascript-algorithms-and-data-structures)
