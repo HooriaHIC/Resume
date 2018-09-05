@@ -60,6 +60,11 @@
 * [Front End Libraries Certification](https://www.freecodecamp.org/certification/ozarion/front-end-libraries)
 * [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)
 
+# Education
+## Bachelors (Computer Science)
+#### Paf Karachi Institute Of Economics & Technology (paf-kiet), Karachi, Pakistan 
+#### Graduating (from 2016 to 2020)
+
 # Personal Information
 #### Name            :   Usama Ishtiaq
 #### Date of Birth   :   28-02-1999
