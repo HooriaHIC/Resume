@@ -1,6 +1,6 @@
 # **Usama Ishtiaq** (Ozarion)
 #### Male, 19 Years, Karachi, Pakistani
-#### **Email**: orionrenegado@gmail.com
+#### **Email**: cozarion@gmail.com
 #### **Mobile**: +92.300.2770524
 
 
