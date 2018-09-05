@@ -1,6 +1,12 @@
-### Proficient in Creating Modern Web Applications leveraging React + Redux
-### Proficient in Creating Rest-APIs
-### Proficient in Creating Traditional MVC Web Applications
+# **Usama Ishtiaq** (Ozarion)
+#### Male, 19 Years, Karachi, Pakistani
+#### **Email**: orionrenegado@gmail.com
+#### **Mobile**: +92.300.2770524
+
+# Professional Summary
+* ### Proficient in Creating Modern Web Applications leveraging React + Redux
+* ### Proficient in Creating Rest-APIs
+* ### Proficient in Creating Traditional MVC Web Applications
 
 #### I'll only list the technologies, libraries, and frameworks that I've worked with in at least 1 project and, In which, I'm fairly proficient.
 
@@ -29,12 +35,11 @@
 * Mocha
 
 ### Administrative Skills
-* 3 years experience in using Linux (Debian)
+* Experience in using Linux (Debian)
 * Familiar with Bash scripting
 * Familiar with Python scripting and basic task automation
 * Familiar with Vagrant and Virtual box
-* Proficient in Git Version Control
-* Familiar with Turtoise SVN
+* Proficient in Git Version Control and Turtoise SVN
 
 ### Other Programming Languages, frameworks and Skills
 * Proficient in Essential Data Structures, Algorithms and Problem Solving
@@ -54,3 +59,13 @@
 * [JavaScript Certification](https://www.freecodecamp.org/certification/ozarion/javascript-algorithms-and-data-structures)
 * [Front End Libraries Certification](https://www.freecodecamp.org/certification/ozarion/front-end-libraries)
 * [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)
+
+# Personal Information
+### Name            :   Usama Ishtiaq
+### Date of Birth   :   28-02-1999
+### Gender          :   Male
+### Age             :   19 Years (As of September, 2018)
+### Nationality     :   Pakistani
+### Residency       :   Karachi, Pakistan
+### Maritual Status :   Single
+### Languages       :   English (Fluent), Urdu (Fluent), Hindi (Fluent)
