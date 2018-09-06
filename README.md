@@ -56,14 +56,14 @@ Male, 19 Years, Karachi, Pakistani
 
 
 # Personal Information
-|	Field			                |	Detail              			|
-| -------------------------------- 	| ---------------------------------	|
-|	Name			                |   Usama Ishtiaq               	|
-|	DOB			                    |	28/02/1999              		|
-|	Gender			                |	Male                			|
-|	Nationality		                |  	Pakistani               		|
-|	Residency		                |	Karachi, Pakistan           	|
-|	Maritual Status             	|	Single	                		|
+|	Field			                |	Detail              			|   
+| -------------------------------- 	| ---------------------------------	|    
+|	Name			                |   Usama Ishtiaq               	|    
+|	DOB			                    |	28/02/1999              		|    
+|	Gender			                |	Male                			|    
+|	Nationality		                |  	Pakistani               		|    
+|	Residency		                |	Karachi, Pakistan           	|    
+|	Maritual Status             	|	Single	                		|    
 |	Languages		                |  	English (Fluent)	            |
 
 # Education
