@@ -64,7 +64,8 @@ Male, 19 Years, Karachi, Pakistani
 |	Nationality		                |  	Pakistani               		|    
 |	Residency		                |	Karachi, Pakistan           	|    
 |	Maritual Status             	|	Single	                		|    
-|	Languages		                |  	English (Fluent)	            |
+|	Languages		                |  	English (Fluent)	            |    
+
 
 # Education
 ### Bachelors (Computer Science)    
