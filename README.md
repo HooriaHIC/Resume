@@ -1,7 +1,7 @@
-# **Usama Ishtiaq** (Ozarion)
-#### Male, 19 Years, Karachi, Pakistani
-#### **Email**: cozarion@gmail.com
-#### **Mobile**: +92.300.2770524
+# **Usama Ishtiaq** (Ozarion)   
+Male, 19 Years, Karachi, Pakistani   
+**Email**: cozarion@gmail.com   
+**Mobile**: +92.300.2770524
 
 
 # Professional Summary
@@ -56,24 +56,24 @@
 
 
 # Personal Information
-#### Name            :   Usama Ishtiaq
-#### Date of Birth   :   28-02-1999
-#### Gender          :   Male
-#### Age             :   19 Years (As of September, 2018)
-#### Nationality     :   Pakistani
-#### Residency       :   Karachi, Pakistan
-#### Maritual Status :   Single
-#### Languages       :   English (Fluent), Urdu (Fluent), Hindi (Fluent)
-
+|	Field			                |	Detail              			|
+| -------------------------------- 	| ---------------------------------	|
+|	Name			                |   Usama Ishtiaq               	|
+|	DOB			                    |	28/02/1999              		|
+|	Gender			                |	Male                			|
+|	Nationality		                |  	Pakistani               		|
+|	Residency		                |	Karachi, Pakistan           	|
+|	Maritual Status             	|	Single	                		|
+|	Languages		                |  	English (Fluent)	            |
 
 # Education
-### Bachelors (Computer Science)
-#### Paf Karachi Institute Of Economics & Technology (paf-kiet), Karachi, Pakistan 
-#### Graduating (from 2016 to 2020)
+### Bachelors (Computer Science)    
+Paf Karachi Institute Of Economics & Technology (paf-kiet), Karachi, Pakistan    
+Graduating (from 2016 to 2020)
 
-##### I've also actively studied from FreeCodeCamp.org, Where I created the requested projects and attained certifications, Here is my [Profile Link](https://www.freecodecamp.org/ozarion) and Below are the Certifications I've attained so far:
+#### I've also actively studied from FreeCodeCamp.org, Where I created the requested projects and attained certifications, Here is my [Profile Link](https://www.freecodecamp.org/ozarion) and Below are the Certifications I've attained so far:
 
-##### * [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ozarion/responsive-web-design)
-##### * [JavaScript Certification](https://www.freecodecamp.org/certification/ozarion/javascript-algorithms-and-data-structures)
-##### * [Front End Libraries Certification](https://www.freecodecamp.org/certification/ozarion/front-end-libraries)
-##### * [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)
+* [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ozarion/responsive-web-design)
+* [JavaScript Certification](https://www.freecodecamp.org/certification/ozarion/javascript-algorithms-and-data-structures)
+* [Front End Libraries Certification](https://www.freecodecamp.org/certification/ozarion/front-end-libraries)
+* [APIs And Microservices Certification](https://www.freecodecamp.org/certification/ozarion/apis-and-microservices)
