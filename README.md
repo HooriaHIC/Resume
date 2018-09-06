@@ -11,7 +11,7 @@ Male, 19 Years, Karachi, Pakistani
 
 #### I'll only list the technologies, libraries, and frameworks that I've worked with in at least 1 project and, In which, I'm fairly proficient.
 
-### Front End
+## Front End
 * Javascript + ES6
 * React.js
 * Redux
@@ -21,7 +21,7 @@ Male, 19 Years, Karachi, Pakistani
 * D3.js (Data Visualization)
 * CSS (Proficient in Scss, CSS Grids, CSS flexbox, CSS Animations, Media Queries)
 
-### Back End
+## Back End
 * Node.js
 * Express.js
 * Mongodb
@@ -29,20 +29,20 @@ Male, 19 Years, Karachi, Pakistani
 * Pug
 * Socket.io (Web Socket)
 
-### Testing And Quality Assurance
+## Testing And Quality Assurance
 * Chai (Testing)
 * Passport.js (Authentication)
 * Helmet.js (Security)
 * Mocha
 
-### Administrative Skills
+## Administrative Skills
 * Experience in using Linux (Debian)
 * Familiar with Bash scripting
 * Familiar with Python scripting and basic task automation
 * Familiar with Vagrant and Virtual box
 * Proficient in Git Version Control and Turtoise SVN
 
-### Other Programming Languages, Frameworks and Skills
+## Other Programming Languages, Frameworks and Skills
 * Proficient in Essential Data Structures, Algorithms and Problem Solving
 * Familiar with Object Oriented Programming and Design Paradigm
 * Familiar with Functional Programming Paradigm
